@@ -1,0 +1,2 @@
+mkdir ~/openvpn && cd ~/openvpn
+
